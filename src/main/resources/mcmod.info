@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "borises_addons",
+  "name": "Boris's Addons",
+  "description": "As great as a gecko",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["bence056"],
+  "credits": "Minax1st",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
