@@ -29,8 +29,6 @@ public class Main {
     public void Init(FMLInitializationEvent event) {}
 
     @Mod.EventHandler
-    public void postInit(FMLPostInitializationEvent event) {
-        ConditionEnderioLoaded.isEnderioLoaded = Loader.isModLoaded("enderio");
-    }
+    public void postInit(FMLPostInitializationEvent event) {}
 
 }
