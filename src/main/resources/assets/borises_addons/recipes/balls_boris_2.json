@@ -1,0 +1,23 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " FS",
+        "FDF",
+        " F "
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "D": {
+            "item": "borises_addons:dust_boris"
+        }
+    },
+    "result": {
+        "item": "borises_addons:balls_boris",
+        "count": 8
+    }
+}

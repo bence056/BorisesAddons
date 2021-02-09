@@ -1,0 +1,30 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+        {
+            "type": "borises_addons:animania_enabled",
+            "value": true
+        }
+    ],
+    "pattern": [
+        " FS",
+        "FDF",
+        " F "
+    ],
+    "key": {
+        "F": {
+            "type": "forge:ore_dict",
+            "ore": "listAllmeatraw"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "D": {
+            "item": "borises_addons:dust_boris"
+        }
+    },
+    "result": {
+        "item": "borises_addons:balls_boris",
+        "count": 16
+    }
+}

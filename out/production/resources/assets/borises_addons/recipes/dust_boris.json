@@ -1,0 +1,21 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "DRS"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "S": {
+        "item": "minecraft:slime_ball"
+      }
+    },
+    "result": {
+      "item": "borises_addons:dust_boris",
+      "count": 16
+    }
+  }

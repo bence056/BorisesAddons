@@ -1,0 +1,24 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " FS",
+        "FDF",
+        " F "
+    ],
+    "key": {
+        "F": {
+            "type": "forge:ore_dict",
+            "ore": "basicRawMeat"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "D": {
+            "item": "borises_addons:dust_boris"
+        }
+    },
+    "result": {
+        "item": "borises_addons:balls_boris",
+        "count": 4
+    }
+}

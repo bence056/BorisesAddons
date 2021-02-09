@@ -10,12 +10,10 @@ import java.util.function.BooleanSupplier;
 
 public class ConditionEnderioLoaded implements IConditionFactory {
 
-    public static boolean isEnderioLoaded;
-
     @Override
     public BooleanSupplier parse(JsonContext context, JsonObject json) {
-        isEnderioLoaded = Loader.isModLoaded("enderio");
-        return () -> isEnderioLoaded;
+        ConditionHandler.isEnderioLoaded = Loader.isModLoaded("enderio");
+        return () -> ConditionHandler.isEnderioLoaded;
     }
 }
 

@@ -1,6 +1,7 @@
 package me.bence056.BorisesAddons;
 
 import me.bence056.BorisesAddons.proxies.CommonProxy;
+import me.bence056.BorisesAddons.util.CustomTab;
 import me.bence056.BorisesAddons.util.conditions.ConditionEnderioLoaded;
 import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
@@ -15,6 +16,8 @@ public class Main {
     public static final String MODID = "borises_addons";
     public static final String MODNAME = "Boris's addons";
     public static final String VERSION = "1.0.0";
+
+    public static final CustomTab mainTab = new CustomTab("customtab");
 
     @Mod.Instance
     public static Main main;

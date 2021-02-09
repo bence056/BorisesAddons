@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting/shaped",
+    "pattern": [
+        " FS",
+        "FDF",
+        " F "
+    ],
+    "key": {
+        "F": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "S": {
+            "item": "minecraft:string"
+        },
+        "D": {
+            "item": "borises_addons:dust_boris"
+        }
+    }
+}
