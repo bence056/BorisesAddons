@@ -7,7 +7,7 @@ import net.minecraft.item.ItemStack;
 public class CustomTab extends CreativeTabs {
 
     public CustomTab(String label) {
-        super("Boris's Addons");
+        super("customtab");
 
     }
 
