@@ -1,0 +1,32 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "conditions": [
+      {
+          "type": "borises_addons:enderio_enabled",
+          "value": true
+      }
+    ],
+    "pattern": [
+      "CBC",
+      "BDB",
+      "CBC"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:coal",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 15
+      },
+      "D": {
+        "item": "borises_addons:dust_boris"
+      }
+    },
+    "result": {
+      "item": "enderio:item_material",
+      "data": 20,
+      "count": 4
+    }
+  }
