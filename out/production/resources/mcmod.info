@@ -1,0 +1,16 @@
+[
+{
+  "modid": "borises_addons",
+  "name": "Boris's Addons",
+  "description": "As great as a gecko",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bence056"],
+  "credits": "Minax1st",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
