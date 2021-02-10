@@ -1,5 +1,6 @@
 {
     "conditions": {
-        "enderio_enabled": "me.bence056.BorisesAddons.util.conditions.ConditionEnderioLoaded"
+        "enderio_enabled": "me.bence056.BorisesAddons.util.conditions.ConditionEnderioLoaded",
+        "animania_enabled": "me.bence056.BorisesAddons.util.conditions.ConditionAnimaniaLoaded"
     }
 }
